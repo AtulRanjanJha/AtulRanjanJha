@@ -59,7 +59,7 @@
   <a href="https://twitter.com/atuljha4747" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="atuljha4747@gmail.com" target="_blank">
+  <a><button onclick="location.href='mailto:recipient@example.com'">Send Mail</button>
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
