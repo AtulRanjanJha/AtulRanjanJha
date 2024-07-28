@@ -16,17 +16,14 @@
   <img align="right" height="400" src="https://media1.tenor.com/m/tKUzbi783KwAAAAd/bers.gif" style="box-shadow: 0 0 10px white; transition: box-shadow 0.3s ease;" />
 </div>
 
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const img = document.querySelector('img[align="right"]');
-    img.addEventListener('mouseover', function() {
-      img.style.boxShadow = '0 0 10px red';
-    });
-    img.addEventListener('mouseout', function() {
-      img.style.boxShadow = '0 0 10px white';
-    });
-  });
-</script>
+### Hobbies
+<ul>
+  <li>Reading</li>
+  <li>Research</li>
+  <li>Music</li>
+  <li>Volleyball</li>
+
+</ul>
 
 ### Skills
 
