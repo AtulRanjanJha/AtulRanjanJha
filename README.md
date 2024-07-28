@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h2 align="left">Hi 👋! My name is Atul Jha, and I'm a computer science engineer from Amity University, Noida</h2>
 
 <p align="left">I am passionate about coding, machine learning, and web development. I love to learn and explore new technologies and continuously strive to improve my skills. Here, you'll find some of my projects and the technologies I've worked with. Feel free to reach out to me through any of the links below!</p>
@@ -14,7 +12,7 @@
 
 ###
 
-<img align="right" height="400" src="https://media1.tenor.com/m/tKUzbi783KwAAAAd/bers.gif" />
+<img align="right" height="400" src="https://media1.tenor.com/m/tKUzbi783KwAAAAd/bers.gif" style="box-shadow: 0 0 10px white;" />
 
 ### Skills
 
@@ -76,3 +74,4 @@
 <div align="left">
   <img align="left" height="150" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </div>
+
