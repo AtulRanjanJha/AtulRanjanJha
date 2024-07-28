@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="400" box-shadow="4px 4px 4px white" src="https://media1.tenor.com/m/tKUzbi783KwAAAAd/bers.gif" />
+<img align="right" height="400" src="https://media1.tenor.com/m/tKUzbi783KwAAAAd/bers.gif" />
 
 ### Skills
 
