@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="250" src="https://media1.tenor.com/m/tKUzbi783KwAAAAd/bers.gif" />
+<img align="right" height="400" src="https://media1.tenor.com/m/tKUzbi783KwAAAAd/bers.gif" />
 
 ### Skills
 
@@ -45,6 +45,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="putty logo"  />
   <img width="12" />
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="30" alt="webstorm logo"  />
