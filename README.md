@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="389" src="https://media1.tenor.com/m/tKUzbi783KwAAAAd/bers.gif"  />
+<img align="right" height="600" src="https://media1.tenor.com/m/tKUzbi783KwAAAAd/bers.gif"  />
 
 ###
 
