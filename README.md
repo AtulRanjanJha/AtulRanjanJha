@@ -12,7 +12,21 @@
 
 ###
 
-<img align="right" height="400" src="https://media1.tenor.com/m/tKUzbi783KwAAAAd/bers.gif" style="box-shadow: 0 0 10px white;" />
+<div style="position: relative;">
+  <img align="right" height="400" src="https://media1.tenor.com/m/tKUzbi783KwAAAAd/bers.gif" style="box-shadow: 0 0 10px white; transition: box-shadow 0.3s ease;" />
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const img = document.querySelector('img[align="right"]');
+    img.addEventListener('mouseover', function() {
+      img.style.boxShadow = '0 0 10px red';
+    });
+    img.addEventListener('mouseout', function() {
+      img.style.boxShadow = '0 0 10px white';
+    });
+  });
+</script>
 
 ### Skills
 
@@ -74,4 +88,5 @@
 <div align="left">
   <img align="left" height="150" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </div>
+
 
