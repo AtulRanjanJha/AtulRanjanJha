@@ -2,6 +2,8 @@
 
 <h2 align="left">Hi 👋! My name is Atul Jha, and I'm a computer science engineer from Amity University, Noida</h2>
 
+<p align="left">I am passionate about coding, machine learning, and web development. I love to learn and explore new technologies and continuously strive to improve my skills. Here, you'll find some of my projects and the technologies I've worked with. Feel free to reach out to me through any of the links below!</p>
+
 ###
 
 <div align="left">
@@ -12,9 +14,9 @@
 
 ###
 
-<img align="right" height="600" src="https://media1.tenor.com/m/tKUzbi783KwAAAAd/bers.gif"  />
+<img align="right" height="250" src="https://media1.tenor.com/m/tKUzbi783KwAAAAd/bers.gif" />
 
-###
+### Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -37,7 +39,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
   <img width="12" />
-  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
@@ -69,3 +70,8 @@
 
 <br clear="both">
 
+### Quotes
+
+<div align="left">
+  <img align="left" height="150" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+</div>
