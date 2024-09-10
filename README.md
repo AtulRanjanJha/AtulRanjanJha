@@ -22,7 +22,7 @@
   <li>Research</li>
   <li>Music</li>
   <li>Volleyball</li>
-  <li>E-sports</li>
+  <li>Gaming</li>
 
 
 </ul>
