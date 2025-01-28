@@ -11,7 +11,6 @@
 </div>
 
 ###
-
 <div style="position: relative;">
   <img align="right" height="400" src="https://media1.tenor.com/m/tKUzbi783KwAAAAd/bers.gif" style="box-shadow: 0 0 10px white; transition: box-shadow 0.3s ease;" />
 </div>
