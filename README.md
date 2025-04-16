@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Atul Jha.</h2>
 
-<p align="left">I am passionate about coding, machine learning, and web development. I love to learn and explore new technologies and continuously strive to improve my skills. Here, you'll find some of my projects and the technologies I've worked with. Feel free to reach out to me through any of the links below!</p>
+<p align="left">I have Experience in different fields of CS like machine learning, and web development. I love to learn and explore new technologies and continuously strive to improve my skills. Here, you'll find some of my projects and the technologies I've worked with. Feel free to reach out to me through any of the links below!</p>
 
 ###
 
