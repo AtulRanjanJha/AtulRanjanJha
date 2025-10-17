@@ -87,10 +87,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/AtulRanjanJha/count.svg?" alt="Visitor Count" />
-</p>
-
----
-
 ⭐️ *Always exploring. Always learning.*  
