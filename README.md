@@ -1,6 +1,5 @@
 <!-- Clean & Modern GitHub Profile README for Atul Jha -->
 
-
 <h1 align="center">Hey, I'm Atul Jha! 🚀</h1>
 
 <h3 align="center">Machine Learning | Web Development | AI Enthusiast</h3>
