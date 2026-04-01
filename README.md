@@ -3,12 +3,12 @@
 
 <h1 align="center">Hey, I'm Atul Jha! 🚀</h1>
 
-<h3 align="center">Machine Learning | Web Development | AI Enthusiast</h3>
+<h3 align="center">Cloud Computing | Machine Learning | Web Development | AI Enthusiast</h3>
 
 ---
 
 ### 🚀 About Me
-💡 I’m Atul, a passionate developer exploring multiple domains of **Computer Science**, especially **Machine Learning**, **Web Development**, and **AI Systems**.  
+💡 I’m Atul, a passionate developer exploring multiple domains of **Computer Science**, especially **Machine Learning**, **Web Development**, and **AI Systems** **Cloud Computing**.  
 ⚙️ I enjoy building intelligent, scalable applications and experimenting with emerging technologies.  
 🎯 Always learning, improving, and pushing my limits with every project I take on.
 
@@ -45,8 +45,10 @@
 #### **DevOps, Cloud & Tools**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
